@@ -1,0 +1,5 @@
+运算符重载
+	Vector & operator =(const Vector & rhs){    }
+		如上返回vector 型引用
+		对运算符 =  进行重载
+		
